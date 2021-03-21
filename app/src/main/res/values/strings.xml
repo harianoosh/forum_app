@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">MidTerm</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="name_label">Name</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Password</string>
+    <string name="login_label">Login</string>
+    <string name="logout_label">Logout</string>
+    <string name="post_label">Post</string>
+    <string name="new_forum_label">New Forum</string>
+    <string name="create_new_account__label">Create New Account</string>
+    <string name="submit_label">Submit</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="forum_title_label">Forum Title</string>
+    <string name="forum_description_label">Forum Description</string>
+    <string name="write_comment">Write a Comment</string>
+
+    <string name="name_error">Please enter valid name</string>
+    <string name="email_error">Please enter valid email</string>
+    <string name="password_error">Please enter valid password</string>
+    <string name="forum_title_error">Please enter valid forum title</string>
+    <string name="forum_description_error">Please enter valid forum description</string>
+
+    <string name="login_successful">Login Successful!!!</string>
+    <string name="registration_successful">Registration Successful!!!</string>
+    <string name="fetching_forums_successful">Fetching Forums Successful</string>
+    <string name="fetching_forum_successful">Fetching Forum Successful</string>
+    <string name="fetching_comment_successful">Fetching Comments Successful</string>
+    <string name="delete_forum_successful">Delete Forum Successful</string>
+    <string name="delete_comment_successful">Delete Comments Successful</string>
+    <string name="create_comment_successful">Comment Created Successfully</string>
+    <string name="create_forum_successful">Forum created Successfully</string>
+    <string name="like_updated">Like updated successfully</string>
+
+    <string name="login_title">Login</string>
+    <string name="create_new_account_title">Create New Account</string>
+    <string name="forums_title">Forums</string>
+    <string name="new_forum_title">New Forum</string>
+    <string name="forum_title">Forum</string>
+
+    <string name="loading">Loading...</string>
+    <string name="likes">Likes</string>
+    <string name="comments">Comments</string>
+    <string name="error">Error :</string>
+
+
+</resources>
